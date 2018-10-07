@@ -3,4 +3,4 @@
 - An unofficial GBU website.
 - Initial development
 - Bootstrap and its templates used for styling.
-> Developed by [Anubhav Singh](https://github.com/annubv)
+> Developed by [Anubhav Singh]( https://annubv.github.io/)
